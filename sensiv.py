@@ -54,7 +54,7 @@ rint("[bold red]Wait...")
 
 tasks = [f'tasj {n}'for n in range(1,11)]
 
-with console.status("[bold green]Working on tasks..." as status):
+with console.status("[bold green]Working on tasks...") as status:
 	while tasks:
 		
 		task = tasks.pop(0)
