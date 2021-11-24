@@ -52,7 +52,7 @@ for i in range(0,101):
 	
 rint("[bold red]Wait...")
 
-tasks = [f'tasj {n}'for n in range(1,11)]
+tasks = [f'task {n}'for n in range(1,11)]
 
 with console.status("[bold green]Working on tasks...") as status:
 	while tasks:
