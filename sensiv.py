@@ -66,4 +66,4 @@ rint('[green]Done!')
 sleep(3.5)
 system("rm -rf storage/shared/Android/data/com.dts.freefireth")
 
-rint("[green]Free Fire is successfully Optimized and gameplay will be a lot better! [bold red]")
+rint("[orange]Free Fire[green] is successfully Optimized and gameplay will be a lot better! [bold red]")
