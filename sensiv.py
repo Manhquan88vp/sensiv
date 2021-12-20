@@ -24,7 +24,6 @@ cores = cpu_count()
 
 temp = "█"
 
-cores = 1
 while True:
 	Continue = input("Do you want to continue? (Y/n) : ").lower()
 	if Continue == "y":
